@@ -1,7 +1,17 @@
+<<<<<<< HEAD
 <action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
+=======
+
+<form action="action_page.php">
+  <div class="container">
+    <h1> Active Tech High School of Technology  </h1>
+    <h1>Hello from Algiers , the best city in the World to learn IT  </h1>
+    <h1>New user Register for DevOps Learning</h1>
+    <p>Please fill in this form to create an account and pay the bills in next session.</p>
+>>>>>>> c246fb43b09f5e559c45b264ce6b6c1f7d173eea
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -31,7 +41,12 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
+<<<<<<< HEAD
    <h1> Thankyou, Happy Learning </h1>
+=======
+   <h1> Thank you, Happy Learning </h1>
+   <h1> DJELLOUT Samir , Director </h1>
+>>>>>>> c246fb43b09f5e559c45b264ce6b6c1f7d173eea
 
   
 </form>
