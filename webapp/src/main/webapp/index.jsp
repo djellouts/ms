@@ -1,35 +1,22 @@
-<<<<<<< HEAD
-<action="action_page.php">
-  <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
-    <p>Please fill in this form to create an account.</p>
-=======
-
 <form action="action_page.php">
   <div class="container">
     <h1> Active Tech High School of Technology  </h1>
     <h1>Hello from Algiers , the best city in the World to learn IT  </h1>
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account and pay the bills in next session.</p>
->>>>>>> c246fb43b09f5e559c45b264ce6b6c1f7d173eea
     <hr>
-     
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
-    
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
-
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
-
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
-
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
@@ -40,13 +27,6 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-
-<<<<<<< HEAD
-   <h1> Thankyou, Happy Learning </h1>
-=======
    <h1> Thank you, Happy Learning </h1>
    <h1> DJELLOUT Samir , Director </h1>
->>>>>>> c246fb43b09f5e559c45b264ce6b6c1f7d173eea
-
-  
 </form>
