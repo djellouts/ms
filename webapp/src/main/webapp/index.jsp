@@ -28,5 +28,5 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
    <h1> Thank you, Happy Learning </h1>
-   <h1> DJELLOUT Samir , Manager Director </h1>
+   <h1> DJELLOUT Samir ,  Director </h1>
 </form>
