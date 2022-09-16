@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> Global Tech High School of Technology  </h1>
+    <h1> Active Tech High School of Technology  </h1>
     <h1>Hello from Algiers , the best city in the World to learn IT  </h1>
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account and pay the bills in next session.</p>
