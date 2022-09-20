@@ -1,6 +1,5 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Active Tech High School of Technology, Ben Aknoune Algiers ALGERIA </h1>
     <h1>Hello from Algiers , the best city in the World to learn IT  </h1>
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account and pay the bills in next session.</p>
@@ -29,4 +28,5 @@
   </div>
    <h1> Thank you, Happy Learning </h1>
    <h1> DJELLOUT Samir ,  Director </h1>
+   <h1>Active Tech High School of Technology, Ben Aknoune Algiers ALGERIA </h1>
 </form>
