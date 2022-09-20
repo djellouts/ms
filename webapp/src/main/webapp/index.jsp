@@ -27,6 +27,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
    <h1> Thank you, Happy Learning </h1>
-   <h1> DJELLOUT Samir ,  Director </h1>
+   <h1> DJELLOUT Samir ,  Manager Director </h1>
+   <h1> MEDDEB Mohamed Salah ,  Instructor </h1>
    <h1>Active Tech High School of Technology, Ben Aknoune Algiers ALGERIA </h1>
 </form>
